@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on making a game
 
+- 🏊‍♂️ I love swimming
  
-
 - 🌱 I’m currently learning: C++, HTML5, CSS3
 
- 
+-  🙋‍♂️I am 14 years old 
 
 - 📫 How to reach me: **RSHristov20@codingburgas.bg**
 
